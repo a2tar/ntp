@@ -1,0 +1,13 @@
+{
+  "name": "aageyev-ntp",
+  "version": "0.1.0",
+  "summary": "Install ntp on ubuntu",
+  "author": "AndreyA",
+  "description": "Install NTP on ubuntu",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "https://github.com/aageyev/ntp.git",
+  "project_page": "https://github.com/aageyev/ntp",
+  "license": "MIT"
+}
