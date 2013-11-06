@@ -1,13 +1,13 @@
 {
-  "name": "aageyev-ntp",
+  "name": "a2tar-ntp",
   "version": "0.1.0",
   "summary": "Install ntp on ubuntu",
-  "author": "AndreyA",
+  "author": "A2taR",
   "description": "Install NTP on ubuntu",
   "dependencies": [],
   "types": [],
   "checksums": {},
-  "source": "https://github.com/aageyev/ntp.git",
-  "project_page": "https://github.com/aageyev/ntp",
+  "source": "https://github.com/a2tar/ntp.git",
+  "project_page": "https://github.com/a2tar/ntp",
   "license": "MIT"
 }
