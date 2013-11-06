@@ -1,6 +1,6 @@
 {
   "name": "a2tar-ntp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Install ntp on ubuntu",
   "author": "A2taR",
   "description": "Install NTP on ubuntu",

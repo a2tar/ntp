@@ -1,5 +1,5 @@
 name    'a2tar-ntp'
-version '0.1.0'
+version '0.1.1'
 source 'https://github.com/a2tar/ntp.git'
 author 'A2taR'
 license 'MIT'
