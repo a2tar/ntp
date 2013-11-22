@@ -1,6 +1,6 @@
 {
   "name": "a2tar-ntp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Install ntp on ubuntu",
   "author": "A2taR",
   "description": "Install NTP on ubuntu",
@@ -9,5 +9,5 @@
   "checksums": {},
   "source": "https://github.com/a2tar/ntp.git",
   "project_page": "https://github.com/a2tar/ntp",
-  "license": "MIT"
+  "license": "MIT License"
 }
